@@ -11,4 +11,5 @@ npm install @formspree/react
 
 That's it!
 
+For more details, go to https://help.formspree.io/hc/en-us/articles/360055613373-The-Formspree-React-library
 
