@@ -6,7 +6,7 @@ npm install @formspree/react
 
 ### Usage
 * import @formspree/react
-* make a Formspree account (it's free) to obtain a form ID
+* make a Formspree account [here](https://formspree.io) (it's free) to obtain a form ID
 * call useForm with your form ID
 
 That's it!
